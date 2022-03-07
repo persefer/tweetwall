@@ -26,7 +26,7 @@ if(isset($_REQUEST['q']) AND $_REQUEST['q'] == "die") session_destroy();
 	// Database user
 	define("DBUSER", "ltdbuser");
 	// Database password
-	define("PASS", "greytoad64");
+	define("PASS", "***");
 	// Database name
 	define("DB", "lifxtimerdb");
 /*	# Connect to the database
@@ -34,7 +34,7 @@ if(isset($_REQUEST['q']) AND $_REQUEST['q'] == "die") session_destroy();
 // Database user
 define("DBUSER", "persefer");
 // Database password
-define("PASS", "greytoad64");
+define("PASS", "***");
 // Database name
 define("DB", "tweetduvarim");
 }
