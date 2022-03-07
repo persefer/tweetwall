@@ -4,7 +4,7 @@
 
 $mysql_hostname = "mysql51.sadecehosting.com";
 $mysql_user = "ltdbuser";
-$mysql_password = "greytoad64";
+$mysql_password = "***";
 $mysql_database = "lifxtimerdb";
 
 
