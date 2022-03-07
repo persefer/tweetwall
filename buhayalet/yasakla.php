@@ -7,7 +7,7 @@
 	// Database user
 	define("DBUSER", "persefer");
 	// Database password
-	define("PASS", "greytoad64");
+	define("PASS", "***");
 	// Database name
 	define("DB", "istiyorum");
 	/*
@@ -16,7 +16,7 @@
 	// Database user
 	define("DBUSER", "perseferdbuser");
 	// Database password
-	define("PASS", "greytoad64");
+	define("PASS", "***");
 	// Database name
 	define("DB", "perseferdb");
 */
