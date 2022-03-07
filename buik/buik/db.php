@@ -15,7 +15,7 @@ if($_SERVER['HTTP_HOST'] == "www.tweetduvar.im")
 	// Database user
 	define("DBUSER", "tweetduvardbuser");
 	// Database password
-	define("PASS", "Greytoad64");
+	define("PASS", "***");
 	// Database name
 	define("DB", "tweetduvardb");
 }
@@ -26,7 +26,7 @@ else
 // Database user
 define("DBUSER", "persefer");
 // Database password
-define("PASS", "greytoad64");
+define("PASS", "***");
 // Database name
 define("DB", "tweetduvarim");
 }
@@ -37,7 +37,7 @@ define("DB", "tweetduvarim");
 	// Database user
 	define("DBUSER", "mnvdbuser");
 	// Database password
-	define("PASS", "greytoad64");
+	define("PASS", "***");
 	// Database name
 	define("DB", "mnvdb");
 
