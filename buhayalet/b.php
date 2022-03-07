@@ -5,7 +5,7 @@ ini_set("display_errors",1);
 	// Database user
 	define("DBUSER", "tweetduvardbuser");
 	// Database password
-	define("PASS", "Greytoad64");
+	define("PASS", "***");
 	// Database name
 	define("DB", "tweetduvardb");
 	/*
@@ -14,7 +14,7 @@ ini_set("display_errors",1);
 	// Database user
 	define("DBUSER", "perseferdbuser");
 	// Database password
-	define("PASS", "greytoad64");
+	define("PASS", "***");
 	// Database name
 	define("DB", "perseferdb");
 */
