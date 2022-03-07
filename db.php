@@ -26,7 +26,7 @@ function remainingTime($time)
 	// Database user
 	define("DBUSER", "ltdbuser");
 	// Database password
-	define("PASS", "greytoad64");
+	define("PASS", "***");
 	// Database name
 	define("DB", "lifxtimerdb");
 //	*/
@@ -36,7 +36,7 @@ function remainingTime($time)
 // Database user
 define("DBUSER", "persefer");
 // Database password
-define("PASS", "greytoad64");
+define("PASS", "***");
 // Database name
 define("DB", "tweetduvarim");
 //*/
